@@ -1,0 +1,14 @@
+# Virtual Environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Notebook checkpoint files
+.ipynb_checkpoints/
+
+# IMPORTANT: Keep your data out of version control if it's large
+# We will decide on this later, but it's good practice.
+data/raw/*.json
+data/processed/*.csv 
