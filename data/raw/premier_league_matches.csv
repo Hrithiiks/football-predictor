@@ -1,0 +1,31 @@
+date,home_team,away_team,home_goals,away_goals,result
+2025-08-15T19:00:00Z,Liverpool FC,AFC Bournemouth,4,2,HOME_TEAM
+2025-08-16T11:30:00Z,Aston Villa FC,Newcastle United FC,0,0,DRAW
+2025-08-16T14:00:00Z,Brighton & Hove Albion FC,Fulham FC,1,1,DRAW
+2025-08-16T14:00:00Z,Sunderland AFC,West Ham United FC,3,0,HOME_TEAM
+2025-08-16T14:00:00Z,Tottenham Hotspur FC,Burnley FC,3,0,HOME_TEAM
+2025-08-16T16:30:00Z,Wolverhampton Wanderers FC,Manchester City FC,0,4,AWAY_TEAM
+2025-08-17T13:00:00Z,Nottingham Forest FC,Brentford FC,3,1,HOME_TEAM
+2025-08-17T13:00:00Z,Chelsea FC,Crystal Palace FC,0,0,DRAW
+2025-08-17T15:30:00Z,Manchester United FC,Arsenal FC,0,1,AWAY_TEAM
+2025-08-18T19:00:00Z,Leeds United FC,Everton FC,1,0,HOME_TEAM
+2025-08-22T19:00:00Z,West Ham United FC,Chelsea FC,1,5,AWAY_TEAM
+2025-08-23T11:30:00Z,Manchester City FC,Tottenham Hotspur FC,0,2,AWAY_TEAM
+2025-08-23T14:00:00Z,AFC Bournemouth,Wolverhampton Wanderers FC,1,0,HOME_TEAM
+2025-08-23T14:00:00Z,Brentford FC,Aston Villa FC,1,0,HOME_TEAM
+2025-08-23T14:00:00Z,Burnley FC,Sunderland AFC,2,0,HOME_TEAM
+2025-08-23T16:30:00Z,Arsenal FC,Leeds United FC,5,0,HOME_TEAM
+2025-08-24T13:00:00Z,Crystal Palace FC,Nottingham Forest FC,1,1,DRAW
+2025-08-24T13:00:00Z,Everton FC,Brighton & Hove Albion FC,2,0,HOME_TEAM
+2025-08-24T15:30:00Z,Fulham FC,Manchester United FC,1,1,DRAW
+2025-08-25T19:00:00Z,Newcastle United FC,Liverpool FC,2,3,AWAY_TEAM
+2025-08-30T11:30:00Z,Chelsea FC,Fulham FC,2,0,HOME_TEAM
+2025-08-30T14:00:00Z,Sunderland AFC,Brentford FC,2,1,HOME_TEAM
+2025-08-30T14:00:00Z,Manchester United FC,Burnley FC,3,2,HOME_TEAM
+2025-08-30T14:00:00Z,Tottenham Hotspur FC,AFC Bournemouth,0,1,AWAY_TEAM
+2025-08-30T14:00:00Z,Wolverhampton Wanderers FC,Everton FC,2,3,AWAY_TEAM
+2025-08-30T16:30:00Z,Leeds United FC,Newcastle United FC,0,0,DRAW
+2025-08-31T13:00:00Z,Brighton & Hove Albion FC,Manchester City FC,2,1,HOME_TEAM
+2025-08-31T13:00:00Z,Nottingham Forest FC,West Ham United FC,0,3,AWAY_TEAM
+2025-08-31T15:30:00Z,Liverpool FC,Arsenal FC,1,0,HOME_TEAM
+2025-08-31T18:00:00Z,Aston Villa FC,Crystal Palace FC,0,3,AWAY_TEAM
